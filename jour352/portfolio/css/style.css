@@ -3,6 +3,13 @@ body{
     background-color: #87CEEB;
     text-align: center;
 }
+
+.navbar{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
 h1 {
     color: #33485e;
     font-family: 'Montserrat', sans-serif;
