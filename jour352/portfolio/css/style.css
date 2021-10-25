@@ -1,0 +1,40 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #87CEEB;
+    text-align: center;
+}
+h1 {
+    color: #33485e;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+
+.dek,h5 {
+  font-style: italic;
+}
+
+.img{
+  float: right;
+  max-width: 200px;
+  width: 100%;
+  height: auto;
+}
+
+p, li, ul{
+  font-family: 'Andada Pro', serif;
+}
+
+h2,mark{
+  background-color: silver;
+  color: b;
+
+}
+
+.intro::after {
+  content: "";
+  display: block;
+  clear: both;
+}
